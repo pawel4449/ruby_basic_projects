@@ -21,6 +21,7 @@ def stock_picker(array)
   end
   puts "The best day to buy stock #{buy_day} and day to sell stock
 #{sell_day}  maximum gain #{max_gain} "
+
 end
 
 stock_picker([17, 3, 6, 9, 15, 8, 6, 1, 10])
